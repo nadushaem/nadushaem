@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Привет 👋 Я Надежда Емельянова </h1>
 
-<!--
-**nadushaem/nadushaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Медицинский кибернетик по образованию, дата-сайентист по призванию 🩺📊
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 Немного обо мне
+ 
+Учусь на 6 курсе на медицинского кибернетика. Это специальность на стыке фундаментальной медицины, статистики и программирования.
+Прошла курс **ML Engineer** на [Karpov Courses](https://karpov.courses/), и сейчас двигаюсь в сторону
+data science: строю модели, разбираюсь в данных, учусь превращать сырые цифры в решения.
+
+Интересует применение ML в здравоохранении, также заинтересовалась построением рекомендательных систем 
+после прохождения курса. Открыта и к другим задачам, где можно копаться в данных и находить закономерности.
+
+### 🛠️ Стек
+
+- **Языки:** Python, SQL, С#, C++
+- **ML/DS:** pandas, numpy, scikit-learn, CatBoost, XGBoost, PyTorch, matplotlib, seaborn, plotly
+- **Инструменты:** Jupyter, Git, Airflow, LLM
+- **В процессе изучения:** MLOps, Docker
+
+
+### 🚀 Проекты
+
+**[Рекомендательная система постов для соцсети](https://github.com/nadushaem/RecSys_START_ML_karpov_courses)**.
+Это итоговый проект курса «Инженер машинного обучения» на Karpov Courses. Задача — персонализация ленты постов:
+построила модель на основе **CatBoost** и простую нейросетевую модель для рекомендаций, сравнила подходы.
+Финальный результат — **hitrate@5 = 0.62**.
+
+`Python` `PyTorch` `CatBoost` `scikit-learn`
+
+> 🔜 Ещё пара проектов в работе — скоро появятся здесь.
+
+### 📌 Сейчас
+
+- Пишу дипломную работу: калькулятор для прогнозирования ответа на ренальную денервацию (full-stack + ML)
+- Углубляю знания в ML и работаю над новыми pet-проектами
+- Мониторю интересные хакатоны и соревнования
+- Открыта к стажировкам и junior-позициям в data science
+
+### 📫 Как со мной связаться
+
+- Telegram: @nadushaem
+- Email: nadezhda.em01@gmail.com
+
+---
+
+<p align="center"><i>Спасибо, что заглянули! Буду рада фидбеку и коллаборациям 🙌</i></p>
