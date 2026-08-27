@@ -35,7 +35,7 @@ data science: строю модели, разбираюсь в данных, у�
 **[Healthtech Jobs Radar](https://github.com/nadushaem/healthtech_jobs_radar)**.
 Pet-проект на стыке медицины и data science: бот, который сам мониторит job-борды (geekjob, getmatch) и раз в 4 
 часа присылает в Telegram подборку вакансий data scientist / ml engineer в healthtech, medtech и femtech. 
-Внутри — свой пайплайн: парсинг → нормализация → дедупликация похожих вакансий → классификация по ролям
+Пайплайн: парсинг → нормализация → дедупликация похожих вакансий → классификация по ролям
 и сферам → статистика по рынку.
 
 `Python` `pandas` `BeautifulSoup` `Telegram Bot API` `APScheduler`
