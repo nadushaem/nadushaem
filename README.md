@@ -32,12 +32,11 @@ data science: строю модели, разбираюсь в данных, у�
 
 `Python` `PyTorch` `CatBoost` `scikit-learn`
 
-**[Healthtech Jobs Radar](https://github.com/nadushaem/healthtech_jobs_radar)**.
-Pet-проект на стыке медицины и data science: бот, который сам мониторит job-борды (geekjob, getmatch) и раз в 4 
-часа присылает в Telegram подборку вакансий data scientist / ml engineer в healthtech, medtech и femtech. 
-Пайплайн: парсинг → нормализация → дедупликация похожих вакансий → классификация по ролям
-и сферам → статистика по рынку.
-
+**[Data Science Jobs Radar](https://github.com/nadushaem/data_science_jobs_radar)**.
+Pet-проект для поиска работы: бот, который мониторит job-борды и раз в 4
+часа присылает в Telegram подборку вакансий data scientist / ml engineer. Каждый подписчик настраивает
+свой набор сфер и ролей через кнопки в боте. Пайплайн: парсинг → нормализация → дедупликация похожих вакансий →
+классификация по ролям и сферам → персональная рассылка каждому подписчику.
 `Python` `pandas` `BeautifulSoup` `Telegram Bot API` `APScheduler`
 
 > 🔜 Ещё пара проектов в работе — скоро появятся здесь.
